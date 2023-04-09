@@ -141,3 +141,60 @@ hr {
 .pf-image6 {
 	background-image: url(img/webcamp-mother.png);
 }
+
+#Feature {
+	width: 100%;
+}
+
+.Feature-title-box {
+	margin: 0 auto;
+	width: 980px;
+	padding-top: 90px;
+}
+
+.Feature-title {
+	text-align: center;
+	font-size: 32px;
+	color: #000000;
+}
+
+.Feature-text {
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+}
+
+.Feature-box {
+	width: 980px;
+	margin: 30px auto 90px auto;
+}
+
+.strength {
+	width: 320px;
+	margin-right: 10px;
+	float: left;
+	text-align: center;
+}
+
+.strength:last-child{
+	margin-right: 0;
+}
+
+.fas {
+	font-size: 60px;
+}
+
+.strength-title {
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+	margin: 10px auto;
+}
+
+.strength-text {
+	font-size: 16px;
+	color: #000000;
+	text-align: left;
+	margin: 0px auto;
+}
+
