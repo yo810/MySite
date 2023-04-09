@@ -67,3 +67,77 @@ header {
 	color: #FAFAFA;
 	margin-top: 10px;
 }
+
+#Portfolio {
+	width: 100%;
+	background-color: #ECEFF1;
+}
+
+.Portfolio-title-box {
+	margin: 0 auto;
+	width: 920px;
+	padding-top: 90px;
+}
+
+.Portfolio-title {
+	text-align: center;
+	font-size: 32px;
+	color: #000000;
+}
+
+hr {
+	height: 3px;
+	width: 70px;
+	background-color: #EC715F;
+	margin: 8px auto 30px auto;
+	border: none;
+}
+
+.Portfolio-text {
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+}
+
+.Portfolio-image-box {
+	width: 920px;
+	height: 600px;
+	margin: 30px auto 0 auto;
+}
+
+.Portfolio-box {
+	width: 300px;
+	height: 250px;
+	margin-right: 10px;
+	margin-top: 10px;
+	background-size: cover;
+	background-position: center;
+	float: left;
+}
+
+.Portfolio-box:nth-child(3n){
+	margin-right: 0;
+}
+
+.Portfolio-box:nth-child(-n+3){
+	margin-top: 0;
+}
+
+.pf-image1 {
+	background-image: url(img/sketch.jpg);
+}
+.pf-image2 {
+	background-image: url(img/websuku.png);
+}
+.pf-image3 {
+	background-image: url(img/write.jpg);
+}
+.pf-image4 {
+	background-image: url(img/webcamp.png);
+}
+.pf-image5 {
+	background-image: url(img/talk.jpg);
+}
+.pf-image6 {
+	background-image: url(img/webcamp-mother.png);
+}
