@@ -258,3 +258,81 @@ hr {
 	font-size: 16px;
 	color: #000000;
 }
+
+#Contact {
+	width: 100%;
+}
+
+.Contact-box {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.Contact-title {
+	text-align: center;
+	font-size: 32px;
+	color: #000000;
+	padding-top: 90px;
+}
+
+.Contact-text {
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+	margin: 30px auto;
+}
+
+.Contact-main {
+	width: 800px;
+	padding-bottom: 90px;
+}
+
+.Contact-left{
+	width: 50%;
+	float: left;
+}
+
+.Contact-left-box {
+	width: 130px;
+	margin: 0 auto;
+}
+
+.Contact-right {
+	width: 50%;
+	float: left;
+}
+
+.Contact-left-title {
+	font-size: 20px;
+	margin-bottom: 5px;
+	margin-top: 20px;
+}
+
+.Contact-left-title:first-child{
+	margin-top: 0;
+}
+
+.Contact-left-text {
+	text-decoration: underline;
+	font-size: 16px;
+	color: #000000;
+}
+
+.Contact-right-box {
+	width: 190px;
+	margin: 0 auto;
+}
+
+.Contact-right-title {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+.fab {
+	font-size: 50px;
+	margin-right: 20px;
+}
+
+.fab:last-child {
+	margin-right: 0;
+}
