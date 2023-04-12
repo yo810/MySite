@@ -198,3 +198,63 @@ hr {
 	margin: 0px auto;
 }
 
+#Profile {
+	background-color: #ECEFF1;
+}
+
+.Profile-box {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.Profile-title {
+	text-align: center;
+	font-size: 32px;
+	color: #000000;
+	padding-top: 90px;
+}
+
+.Profile-text {
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+	margin: 30px auto;
+}
+
+.Profile-main {
+	width: 1024px;
+	padding-bottom: 90px;
+}
+
+.Profile-left{
+	width: 50%;
+	float: left;
+}
+
+.top-image {
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+	border-radius: 50%;
+	background-image: url(img/my-icon.jpg);
+}
+
+.Profile-right {
+	width: 50%;
+	float: left;
+}
+
+.Profile-right-title {
+	font-size: 20px;
+	margin-bottom: 5px;
+	margin-top: 20px;
+}
+
+.Profile-right-title:first-child{
+	margin-top: 0;
+}
+
+.Profile-right-text {
+	font-size: 16px;
+	color: #000000;
+}
