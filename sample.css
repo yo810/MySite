@@ -349,3 +349,22 @@ footer{
 	font-size: 16px;
 	color: #FAFAFA;
 }
+
+@media screen and (max-width:767px) {
+	.main-title {
+		color: blue;
+	}
+
+	header{
+		height: 50px;
+	}
+
+	.header-box {
+		width: 90%;
+	}
+
+	.logo-image{
+		float: none;
+		height: 50px;
+	}
+}
