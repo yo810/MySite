@@ -432,4 +432,80 @@ footer{
 		display: none;
 	}
 
+	.Feature-title-box {
+		width: 90%;
+	}
+
+	.Feature-box {
+		width: 320px;
+	}
+
+	.strength:first-child {
+		margin-top: 0;
+	}
+
+	.strength {
+		float: none;
+		margin-top: 10px;
+	}
+
+	.Profile-box {
+		width: 90%;
+	}
+
+	.Profile-main {
+		width: 90%;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.Profile-left {
+		float: none;
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.Profile-right {
+		float: none;
+		width: 100%;
+	}
+
+	.Contact-box {
+		width: 90%;
+	}
+
+	.Contact-main {
+		width: 100%;
+		text-align: center;
+	}
+
+	.Contact-left {
+		width: 100%;
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+
+	.Contact-right {
+		width: 100%;
+		float: none;
+		margin: 0 auto;
+	}
+
+	.Contact-left-box {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.Contact-right-box {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.fab {
+		margin-right: 8px;
+	}
+}
+
+
 }
